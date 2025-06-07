@@ -105,6 +105,5 @@ python iMAGE sEGMENTATION sCRIPT.ipynb
 
 ---
 
-
 ## Ok
 
