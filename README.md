@@ -102,8 +102,18 @@ pip install -r requirements.txt
 
 # Run the notebook in VS Code, Colab, Jupyter or any Python environment
 python iMAGE sEGMENTATION sCRIPT.ipynb
-
+```
 ---
 
-## Ok
+## ⚠️ Challenges  
+- Differentiating nested tumors with close intensity ranges  
+- Choosing optimal thresholds across variable slices
+
+---  
+
+## 👤 Contributors  
+- Amoss Robert
+Master of Data Science Candidate | Medical Imaging Enthusiast
+
+
 
