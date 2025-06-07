@@ -102,7 +102,7 @@ python iMAGE sEGMENTATION sCRIPT.ipynb
 ```
 ---
 
-## ⚠️ Challenges  
+## ⚠ Challenges  
 - Differentiating nested tumors with close intensity ranges  
 - Choosing optimal thresholds across variable slices
 
