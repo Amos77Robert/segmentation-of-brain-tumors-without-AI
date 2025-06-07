@@ -110,7 +110,7 @@ python iMAGE sEGMENTATION sCRIPT.ipynb
 
 ## 👤 Contributors  
 - Amoss Robert
-  Master of Data Science Candidate | Medical Imaging Enthusiast
+  - Master of Data Science Candidate | Medical Imaging Enthusiast
 
 
 
