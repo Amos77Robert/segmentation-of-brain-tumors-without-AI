@@ -66,7 +66,7 @@ This can assist medical practitioners or serve as a proof-of-concept for more ad
 
 ---
 
-## Results
+## 📊 Results
 
 Example segmented slice (slice index = 110):
 
