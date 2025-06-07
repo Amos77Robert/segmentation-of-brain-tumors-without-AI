@@ -89,14 +89,6 @@ Nested tumors:
 git clone https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI.git
 cd segmentation-of-brain-tumors-without-A
 
-# Setup environment
-pip install -r requirements.txt
-
-# Run the notebook in VS Code, Colab, Jupyter or any Python environment
-python iMAGE sEGMENTATION sCRIPT.ipynb
-
----
-
 ## 🧪 Dependencies
 - numpy
 - matplotlib
@@ -107,3 +99,12 @@ python iMAGE sEGMENTATION sCRIPT.ipynb
 Install them via:
 ```bash
 pip install -r requirements.txt
+
+# Run the notebook in VS Code, Colab, Jupyter or any Python environment
+python iMAGE sEGMENTATION sCRIPT.ipynb
+
+---
+
+
+## Ok
+
