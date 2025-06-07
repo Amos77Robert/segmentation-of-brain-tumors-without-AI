@@ -1,5 +1,3 @@
-# segmentation-of-brain-tumors-without-AI
-This project performs image segmentation on CT brain images to identify and label tumor regions using binary masking technique in Python.
 # 🧠 Tumor Segmentation in CT Brain Scans
 
 This project performs image segmentation on CT brain images to identify and label tumor regions using thresholding and labeling techniques in Python.
