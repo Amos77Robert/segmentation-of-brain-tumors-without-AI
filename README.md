@@ -94,3 +94,16 @@ pip install -r requirements.txt
 
 # Run the notebook in VS Code, Colab, Jupyter or any Python environment
 python iMAGE sEGMENTATION sCRIPT.ipynb
+
+---
+
+## 🧪 Dependencies
+- numpy
+- matplotlib
+- nibabel
+- scipy
+- scikit-image
+
+Install them via:
+```bash
+pip install -r requirements.txt
