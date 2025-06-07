@@ -74,7 +74,7 @@ Example segmented slice (slice index = 110):
 
 | Original | Segmented |
 |----------|-----------|
-| ![Original](https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI/blob/main/visualisations/original_mri_scan.png?raw=true) | ![Segmented](https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI/blob/main/visualisations/segmented_mri_scan.png?raw=true) |
+| ![Original](https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI/blob/main/visualisations/original_mri_scan.png?raw=true) | ![Segmented](https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI/blob/main/visualisations/segmented.png?raw=true) |
 
 Nested tumors:
 - Small tumor : Higher intensity
