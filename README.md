@@ -57,12 +57,12 @@ This can assist medical practitioners or serve as a proof-of-concept for more ad
 4. **Border Clearing**
    - `skimage.segmentation.clear_border()` used to remove artifacts
 5. **Labeling**
-   - `skimage.measure.regionprops() to identify tumor regions and their properties such as area, bounding boxes, center_of_mass  
+   - `skimage.measure.regionprops()` to identify tumor regions and their properties such as area, bounding boxes, center_of_mass  
    - `scipy.measure.label()` to label connected regions and identified region areas
 6. **Visualization**
    - `matplotlib.pyplot.pcolormesh()` for color visualization
-   - `scipy.ndimage.zoom() to reduce axes dimensions  
-   - `plotly.graph_objects() for 3D visualisation of segmented tumors
+   - `scipy.ndimage.zoom()` to reduce axes dimensions  
+   - `plotly.graph_objects()` for 3D visualisation of segmented tumors
 
 ---
 
