@@ -1,6 +1,6 @@
 # 🧠 Tumor Segmentation in CT Brain Scans
 
-This project performs image segmentation on CT brain images to identify and label tumor regions using thresholding and labeling techniques in Python.
+This project performs image segmentation on MRI brain images to identify and label tumor regions using binary masking and labeling techniques in Python.
 
 ---
 
