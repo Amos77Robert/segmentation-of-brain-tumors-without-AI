@@ -85,11 +85,11 @@ Nested tumors:
 ## ▶ How to Run
 
 ```bash
-git clone https://github.com/yourusername/tumor-segmentation.git
-cd tumor-segmentation
+git clone https://github.com/Amos77Robert/segmentation-of-brain-tumors-without-AI.git
+cd segmentation-of-brain-tumors-without-A
 
 # Setup environment
 pip install -r requirements.txt
 
-# Run the notebook or script
-python segment.py
+# Run the notebook in VS Code, Colab, Jupyter or any Python environment
+python iMAGE sEGMENTATION sCRIPT.ipynb
