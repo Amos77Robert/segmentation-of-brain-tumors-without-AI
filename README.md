@@ -1,4 +1,4 @@
-# 🧠 Tumor Segmentation in CT Brain Scans
+# 🧠 Tumor Segmentation in MRI Brain Scans
 
 This project performs image segmentation on MRI brain image to identify and segment tumor regions using binary masking and labeling techniques in Python.
 
@@ -32,7 +32,10 @@ This can assist medical practitioners or serve as a proof-of-concept for more ad
 - **Type**: MRI scan brain images
 - **Format**: `.nii` (Neuroimaging Informatics Technology Initiative format)
 - **Slices**: 2D grayscale slices from 3D volumes  
-  📥 [Download Link](https://drive.google.com/file/d/17GweAk4-2pUUwOFV9EQZgLv70_jD0OVR/view?usp=sharing)   
+  📥 [Download Link](https://drive.google.com/file/d/17GweAk4-2pUUwOFV9EQZgLv70_jD0OVR/view?usp=sharing)  
+
+- Full Data Source
+- 📥 [Download Link](https://www.cancerimagingarchive.net/collection/brats-africa/)
 
 ---
 
