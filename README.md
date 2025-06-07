@@ -11,11 +11,8 @@ This project performs image segmentation on MRI brain image to identify and segm
 - [Methodology](#methodology)
 - [Results](#results)
 - [How to Run](#how-to-run)
-- [Visualizations](#visualizations)
 - [Challenges](#challenges)
-- [Improvements](#improvements)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -113,7 +110,7 @@ python iMAGE sEGMENTATION sCRIPT.ipynb
 
 ## 👤 Contributors  
 - Amoss Robert
-Master of Data Science Candidate | Medical Imaging Enthusiast
+  Master of Data Science Candidate | Medical Imaging Enthusiast
 
 
 
